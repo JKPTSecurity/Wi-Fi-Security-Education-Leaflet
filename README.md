@@ -12,6 +12,8 @@ Stop hackers from the beginning of a day! Use our Wi-Fi disconnection system!
 Check the [tips here](tips.md) and check the [related attack here](attacks.md)
 
 # License
+Brought to you by [@makercyf](https://github.com/makercyf), [@Undefined-Te](https://github.com/Undefined-Te), and one other person.
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
